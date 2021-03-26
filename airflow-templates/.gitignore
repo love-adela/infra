@@ -94,3 +94,10 @@ myvenv/
 
 # log
 logs/
+*.log
+
+# out
+*.out
+
+# error
+*.err
